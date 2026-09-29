@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PycharmProjectAdvanced/.idea/PycharmProjectAdvanced.iml" filepath="$PROJECT_DIR$/../PycharmProjectAdvanced/.idea/PycharmProjectAdvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PycharmProjects.iml" filepath="$PROJECT_DIR$/.idea/PycharmProjects.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/PythonAdvanced/.idea/PythonAdvanced.iml" filepath="$USER_HOME$/PycharmProjects/PythonAdvanced/.idea/PythonAdvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythondatabase/db_works/.idea/db_works.iml" filepath="$PROJECT_DIR$/../pythondatabase/db_works/.idea/db_works.iml" />
+    </modules>
+  </component>
+</project>
